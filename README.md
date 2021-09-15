@@ -14,6 +14,11 @@
 - **Flip Flops, Registrers, Counters**
 - **Digital Sequentials Circuit Analysis & Synthesis**
 - **Logic Families & Integrated Circuits**
+- **Memory Devices**
+    - ROM, PROM, EPROM, EEPROM, Flash, SRAM, DRAM
+- **Analog / Digital Converters (AD & DA Convertes)**
+- **Programmable Logic Devices**
+    - PAL, PLA, PLD, EPLD 
 ---
 >### 3. Projects & Implementations:
 - **BCD to 7 Segments Display Converter**
